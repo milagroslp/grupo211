@@ -27,7 +27,7 @@ public class Extra6 {
         String frase = "hola";
         int fila;
         int columna;
-
+       //no escribo nada, solo intento ver si hubo un cambio- Mili"
         for (int i = 0; i < 5; i++) {
 
             do {
